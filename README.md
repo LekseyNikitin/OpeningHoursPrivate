@@ -1,0 +1,2 @@
+# OpeningHoursPrivate
+Calculate opening hours
